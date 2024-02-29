@@ -4,7 +4,7 @@
 
 I'm a Norwegian Full-Stack Developer.
 
-- 🔭 I’m built my own [blog](https://www.fotballfeber.com/) with [Next.js](https://github.com/vercel/next.js)
+- 🔭 I am currently building an online community and news aggregate at [FotballFeber.com](https://www.fotballfeber.com/) with [Next.js](https://github.com/vercel/next.js)
 - 🌱 I’m currently learning [xstate](https://github.com/statelyai/xstate) and [elysiajs](https://github.com/elysiajs/elysia)
 
 ### Languages and Tools
