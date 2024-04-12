@@ -5,7 +5,7 @@
 I'm a Norwegian Full-Stack Developer.
 
 - 🔭 I am currently building an online community and news aggregate at [FotballFeber.com](https://www.fotballfeber.com/) with [Next.js](https://github.com/vercel/next.js)
-- 🌱 I’m currently learning [xstate](https://github.com/statelyai/xstate) and [elysiajs](https://github.com/elysiajs/elysia)
+- 🌱 I’m currently learning [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) and [Novu](https://github.com/novuhq/novu/)
 
 ### Languages and Tools
 
