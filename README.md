@@ -1,4 +1,4 @@
-<img src="https://github-stats.liuli.lol/api?username=estubmo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" align="right">
+![estubmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=estubmo&show_icons=true&theme=gruvbox)
 
 ## Hi there 😁
 
